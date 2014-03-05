@@ -1,0 +1,12 @@
+
+Macro	Expands To
+___FILENAME___	The file name including extension
+___FILEBASENAMEASIDENTIFIER___	The file name without its extension converted to valid C-style identifier
+___PROJECTNAME___	The project name
+___PROJECTNAMEASIDENTIFIER___	The project name converted to valid C-style identifier
+___USERNAME___	The short user account name. In my case, “Bob”
+___FULLUSERNAME___	The full user name. In my case, “Bob McCune”
+___ORGANIZATIONNAME___	The organization name defined in your Xcode project
+___DATE___	Today’s date
+___TIME___	The current time
+___YEAR___	The current four-digit year
